@@ -1,0 +1,5 @@
+Region,Total_Sales,Total_Profit,Total_Orders,Avg_Margin_Pct,Sales_Contrib_Pct,Avg_Growth,Revenue_Score,Profit_Score,Growth_Score,Total_Score,Classification
+West,725457.82,108418.45,3203,21.95,31.58,0.20759457759921088,40.0,40.0,20.0,100.0,🟢 Core
+East,678781.24,91522.78,2848,16.72,29.55,0.18361897082512355,34.41,33.54,15.36,83.31,🟢 Core
+South,391721.9,46749.43,1620,16.35,17.05,0.10423003767297112,0.0,33.08,0.0,33.08,🔴 Risk
+Central,501239.89,39706.36,2323,-10.41,21.82,0.14052441491832046,13.13,0.0,7.02,20.15,🔴 Risk
